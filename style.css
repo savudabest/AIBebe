@@ -1,0 +1,11 @@
+body{
+    background-size: cover;
+}
+
+h1{
+    font-size: 35px;
+    color: white;
+    letter-spacing: 4px;
+    text-shadow: 5px 5px 5px red;
+
+}
